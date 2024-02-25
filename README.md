@@ -1,6 +1,8 @@
 # Self-Driving-Car-Simulation
-## Demo on Youtube (Click Image): 
-[<img src="https://github.com/Akshay-Dongare/Self-Driving-Car-Simulation/assets/75126845/1a846cd4-a024-44c5-9d43-ac19e71dbc64" width="50%">](https://www.youtube.com/watch?v=im5DmQXO7RE "Self Driving Car Simulation Demo")
+## Demo on Youtube:
+### Click the image below
+[<img src="https://github.com/Akshay-Dongare/Self-Driving-Car-Simulation/assets/75126845/1a846cd4-a024-44c5-9d43-ac19e71dbc64" width="50%">](https://www.youtube.com/watch?v=im5DmQXO7RE "Self Driving Car Simulation Demo") 
+* Or use this link: https://www.youtube.com/watch?v=im5DmQXO7RE 
 
 # PBL-SEM4-Winners
 ![PBL_certificate-1](https://user-images.githubusercontent.com/75126845/170635315-3807caa1-ced4-4439-8364-e1a4ed6c44ab.png)
