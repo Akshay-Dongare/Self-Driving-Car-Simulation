@@ -13,3 +13,7 @@ sklearn~=0.0
 scikit-learn~=0.23.2  
 Keras~=2.4.3  
 scikit-image~=0.18.0  
+## Easy pip installation (Open terminal and type command below)
+```
+pip install -r requirements.txt
+```
