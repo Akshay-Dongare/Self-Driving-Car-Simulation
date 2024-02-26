@@ -1,3 +1,8 @@
+## Easy pip installation (Open terminal and type command below)
+```
+pip install -r requirements.txt
+```
+
 ## MUST GET THIS SPECIFIC VERSION
 python-engineio==3.13.0  
 python-socketio==4.6.1
@@ -13,7 +18,3 @@ sklearn~=0.0
 scikit-learn~=0.23.2  
 Keras~=2.4.3  
 scikit-image~=0.18.0  
-## Easy pip installation (Open terminal and type command below)
-```
-pip install -r requirements.txt
-```
